@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002AddTwoNumbers", "002AddTwoNumbers\002AddTwoNumbers.csproj", "{8AC82944-FC03-4E14-9E55-4E24D8666FD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002AddTwoNumbers", "002AddTwoNumbers\002AddTwoNumbers.csproj", "{8AC82944-FC03-4E14-9E55-4E24D8666FD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001TwoSum", "001TwoSum\001TwoSum.csproj", "{AE698911-B308-4682-A8D6-2E29F887CB7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001TwoSum", "001TwoSum\001TwoSum.csproj", "{AE698911-B308-4682-A8D6-2E29F887CB7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003IsPalindorme", "003IsPalindorme\003IsPalindorme.csproj", "{3A189636-E5FA-4B47-AE72-3A6099809F48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AE698911-B308-4682-A8D6-2E29F887CB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE698911-B308-4682-A8D6-2E29F887CB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE698911-B308-4682-A8D6-2E29F887CB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A189636-E5FA-4B47-AE72-3A6099809F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A189636-E5FA-4B47-AE72-3A6099809F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A189636-E5FA-4B47-AE72-3A6099809F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A189636-E5FA-4B47-AE72-3A6099809F48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
